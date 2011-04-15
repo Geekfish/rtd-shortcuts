@@ -7,7 +7,7 @@
 // @name          Readthedocs keyboard shortcuts
 // @namespace     http://github.com/Geekfish
 // @description   Added shortcuts for read the docs 
-// @include       http://readthedocs.org/docs/**.html
+// @include       http://readthedocs.org/docs/**.html*
 // ==/UserScript==
 
 window.addEventListener('keypress', function(e) {
