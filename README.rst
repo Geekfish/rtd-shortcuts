@@ -12,10 +12,14 @@ Open the script in firefox or simply drag and drop it on any open tab.
 
 Usage
 =====                                
-"n" or "right arrow"                  next page
-"p" or "left arrow"                    previous page
-"i"                                          index
-"f"                                          go to search
+"n" or "right arrow"
+  next page
+"p" or "left arrow"
+  previous page
+"i"
+  index
+"f"
+  go to search
 
 More
 ====
