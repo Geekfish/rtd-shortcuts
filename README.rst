@@ -1,4 +1,4 @@
-About ![Project status](http://stillmaintained.com/Geekfish/rtd-shortcuts.png)
+About
 ====
 Simple greasemonkey reading-helper script for readthedocs.org.
 
