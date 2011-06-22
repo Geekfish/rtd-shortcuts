@@ -1,4 +1,6 @@
-About
+.. |maintenance status| image:: http://stillmaintained.com/Geekfish/rtd-shortcuts.png
+
+About |maintenance status|
 ====
 Simple greasemonkey reading-helper script for readthedocs.org.
 
